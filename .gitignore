@@ -11,3 +11,6 @@ dist/
 # Ignore environment files
 .env
 RedisServices/
+bin/
+obj/
+.vs/
